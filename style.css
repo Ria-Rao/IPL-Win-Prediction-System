@@ -1,0 +1,52 @@
+body{
+    background-image: url("back.jpg");
+}
+.st-emotion-cache-10trblm{
+    color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.st-emotion-cache-1wrcr25{
+
+    background-image: conic-gradient(rgb(86, 1, 86),rgb(254, 90, 117),yellow,rgb(0, 0, 142),rgb(205, 68, 0),rgb(0, 0, 37), blue, black,red);
+      
+}
+.st-emotion-cache-10trblm{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.st-emotion-cache-1v0mbdj{
+    margin: 0;
+    padding: 0;    
+    position :absolute;
+    width:50rem;
+    left:-9%;
+    top:-2%;  
+    margin-bottom: 3rem;
+    /* box-shadow: ; */
+}
+.st-emotion-cache-1n76uvr{
+    padding: 2rem;
+    margin: 1rem;
+}
+.st-emotion-cache-1v0mbdj{
+    position:absolute;
+    top:15%;
+    opacity: 0.5;
+    
+}
+.st-emotion-cache-1v0mbdj img{
+    height: 40rem;
+    border:1px solid white;
+    box-shadow: 0 0 50px 15px white;
+    
+}
+.st-emotion-cache-1y4p8pa{
+    padding-top: 1rem;
+}
+.st-emotion-cache-16idsys p{
+    color: white;
+}
